@@ -1,2 +1,1 @@
 # linkedlist
-# by TAI
